@@ -1,0 +1,40 @@
+xml file just for test !
+
+   <first> tedd </first>
+     
+     <last> bear  </last>
+     
+    
+
+ </Name>
+
+</payment>
+
+
+<breakfast_menu>
+   <food>
+        <name> strawberry waffles </name>
+        <colories>900</colories>
+   </food>
+
+   <food>
+        <name>french toast  </name>
+        <colories>600</colories>
+    </food>
+
+ </breakfast_menu> 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<payment>
+   <Name>
+      <first>Asmelash</first>
+      <last>Talene</last>
+   </Name>
+   <address>
+      <street>xxxxx</street>
+      <zip>123454</zip>
+   </address>
+   <creditcard>12345265</creditcard>
+   <Expire>09/2023</Expire>
+   <ccv>156</ccv>
+</payment>

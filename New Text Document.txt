@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+NEW HTML file.
+=======
+Hello Text.file
+>>>>>>> fb7e9088a6d2f83e8efde2694200e708c5894526

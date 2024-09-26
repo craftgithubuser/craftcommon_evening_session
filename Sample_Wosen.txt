@@ -1,0 +1,1 @@
+hello writing in to newly created file from git bash

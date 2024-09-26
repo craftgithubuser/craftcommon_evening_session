@@ -1,0 +1,5 @@
+My file.
+Hi
+another update
+update through git bask 
+>>>>>>> 7c57dae6299621a646da68b78e1e3904539f5099
